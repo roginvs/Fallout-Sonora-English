@@ -6,3 +6,6 @@
 
 {210}{}{Привет.}
 {211}{}{Пока.}
+
+# Additional Russian localization messages.
+{202}{}{До встречи.}
