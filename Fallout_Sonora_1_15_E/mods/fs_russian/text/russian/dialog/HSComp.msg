@@ -17,3 +17,16 @@
 {218}{}{—копировать данные компьютера на голодиск.}
 {219}{}{јрхив данных скопирован.}
 {220}{}{(ƒанные внесены на испанском €зыке. ¬ы не понимаете, что здесь написано.)}
+{300}{}{Ingresar comando}
+{301}{}{Cerrar sesiГn}
+{302}{}{Regresar}
+{310}{}{Informe trimestral del fuerte}
+{311}{}{(Informe 2162 para el cuartel general en Monterrey. El destacamento del General Sarabia entrГ en el desierto Hermosillo y organizГ una base temporal. Una semana despuРs llegГ la orden de acantonamiento permanente.)}
+{312}{}{Fuerte en El Paso}
+{313}{}{(ƒанные на испанском. ¬ы не понимаете, что здесь написано.)}
+{314}{}{Metas y objetivos}
+{315}{}{(El objetivo principal es mantener la posiciГn y expandir el territorio del nuevo Estado.)}
+{316}{}{EvaluaciГn de la situaciГn}
+{317}{}{(SegЯn los Яltimos datos, la principal amenaza para el fuerte es la Hermandad del Acero en las ruinas de Puerto PeЬasco y un asentamiento de Hojalateros cerca de la Tucson pre-guerra. El fuerte estЮ entrenando exploradores para estudiar las fuerzas de estos posibles oponentes.)}
+{318}{}{Copiar datos del ordenador al holodisco}
+{319}{}{Archivo de datos copiado}
