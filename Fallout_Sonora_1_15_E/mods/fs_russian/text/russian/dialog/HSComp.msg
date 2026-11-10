@@ -17,3 +17,16 @@
 {218}{}{Скопировать данные компьютера на голодиск.}
 {219}{}{Архив данных скопирован.}
 {220}{}{(Данные внесены на испанском языке. Вы не понимаете, что здесь написано.)}
+{300}{}{Ingresar comando}
+{301}{}{Cerrar sesión}
+{302}{}{Regresar}
+{310}{}{Informe trimestral del fuerte}
+{311}{}{(Informe 2162 para el cuartel general en Monterrey. El destacamento del General Sarabia entró en el desierto Hermosillo y organizó una base temporal. Una semana después llegó la orden de acantonamiento permanente.)}
+{312}{}{Fuerte en El Paso}
+{313}{}{(Данные на испанском. Вы не понимаете, что здесь написано.)}
+{314}{}{Metas y objetivos}
+{315}{}{(El objetivo principal es mantener la posición y expandir el territorio del nuevo Estado.)}
+{316}{}{Evaluación de la situación}
+{317}{}{(Según los últimos datos, la principal amenaza para el fuerte es la Hermandad del Acero en las ruinas de Puerto Peñasco y un asentamiento de Hojalateros cerca de la Tucson pre-guerra. El fuerte está entrenando exploradores para estudiar las fuerzas de estos posibles oponentes.)}
+{318}{}{Copiar datos del ordenador al holodisco}
+{319}{}{Archivo de datos copiado}
