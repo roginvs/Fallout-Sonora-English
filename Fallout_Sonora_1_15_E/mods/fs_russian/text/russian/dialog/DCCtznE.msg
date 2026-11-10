@@ -148,18 +148,3 @@
 {373}{}{я тебе этого не говорил, амиго, но ответ на свой вопрос ты найдешь на местном кладбище. » больше не спрашивай мен€ об этом.}
 {374}{}{’орошо.}
 
-
-# Additional Russian localization messages.
-{180}{}{Ђ„то тебе от мен€ нужно?ї}
-{181}{}{я просто хочу поговорить. “ы понимаешь по-английски?}
-{182}{}{Ђќставь мен€ в покое. я не понимаю по-английски.ї}
-{220}{}{Ten piedad de un hombre viejo, seЬor. Los extranos van y vienen. Y necesito buscar comida. Estoy hambriento, por el amor de Dios.}
-{244}{}{Ёй, € не бандит.}
-{245}{}{Ѕудешь кричать - тебе же хуже будет.}
-{256}{}{Ђјх, чем могу помочь, сеньор?ї}
-{257}{}{Ah, њcГmo puedo ayudarte, seЬor?}
-{1220}{}{Ten piedad de un hombre viejo, seЬora. Los extranos van y vienen. Y necesito buscar comida. Estoy hambriento, por el amor de Dios.}
-{1244}{}{Ёй, € не бандитка.}
-{1256}{}{Ђјх, чем могу помочь, сеньорита?ї}
-{1257}{}{Ah, њcГmo puedo ayudarte, seЬorita?}
-{2205}{}{Ђя не говорю по-английски. ќставь мен€ в покое!ї}

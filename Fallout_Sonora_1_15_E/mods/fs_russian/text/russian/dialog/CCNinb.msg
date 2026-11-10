@@ -51,14 +51,3 @@
 {245}{}{Иду.}
 {246}{}{Я устала.}
 
-
-# Additional Russian localization messages.
-{115}{}{«Кажется, это твоё. Возьми и делай с этим что хочешь.»}
-{116}{}{«Ещё рано тебе это отдавать.»}
-{213}{}{(падает на колени и рыдает) El Diablo... *хнык-хнык* No entiendes, gringo. Vivљ para esto.}
-{214}{}{(хватает вас за рукав) ЎEste es mi destino! ЎYa no encuentro sentido a la vida!}
-{215}{}{(обессиленно) Bueno. Me irђ a casa. Que sea lo que tenga que ser.}
-{247}{}{«Жди здесь и никуда не уходи.»}
-{248}{}{«Идём дальше.»}
-{249}{}{«Иди за мной. Я прослежу, чтобы ты добралась домой.»}
-{1213}{}{(падает на колени и рыдает) El Diablo... *хнык-хнык* No entiendes, gringa. Vivљ para esto.}
