@@ -39,6 +39,3 @@
 {129}{}{ не намерена вас туда пускать.}
 
 {130}{}{No toques la puerta.}
-
-# Additional Russian localization messages.
-{131}{}{«Не трогай дверь.»}
